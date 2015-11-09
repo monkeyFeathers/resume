@@ -52,9 +52,9 @@ I am a full-stack JavaScript developer focusing on node and react, with a backgr
 
 <header>
 
-# <span class="company-name">Towers Watson</span>, <span class="job-location">New York, NY & Portland, OR</span><span class="job-dates">2008 – 2015</span>
+### Towers Watson, New York, NY & Portland, OR -- 2008 – 2015
 
-## <span class="job-title">Marketing Project Manager</span>
+#### Marketing Project Manager
 
 </header>
 
@@ -76,9 +76,9 @@ Reporting to marketing director, planned and implemented marketing campaigns for
 
 <header>
 
-# <span class="company-name">Transfer Online</span>, <span class="job-location">Portland, OR</span><span class="job-dates">2011</span>
+### Transfer Online</span>, <span class="job-location">Portland, OR</span><span class="job-dates">2011</span>
 
-## <span class="job-title">Contract Front End Developer</span>
+#### <span class="job-title">Contract Front End Developer</span>
 
 </header>
 
@@ -95,9 +95,9 @@ Reporting to marketing director, planned and implemented marketing campaigns for
 
 <header>
 
-# <span class="company-name">The Johns</span>, <span class="job-location">New York, NY</span><span class="job-dates">2005 – 2010</span>
+### <span class="company-name">The Johns</span>, <span class="job-location">New York, NY</span><span class="job-dates">2005 – 2010</span>
 
-## <span class="job-title">Web Manager/Lead Guitarist</span>
+#### <span class="job-title">Web Manager/Lead Guitarist</span>
 
 </header>
 
@@ -116,9 +116,9 @@ Reporting to marketing director, planned and implemented marketing campaigns for
 
 <header>
 
-# <span class="company-name">The Electric Sheep Company</span>, <span class="job-location">New York, NY</span><span class="job-dates">2007 – 2008</span>
+### <span class="company-name">The Electric Sheep Company</span>, <span class="job-location">New York, NY</span><span class="job-dates">2007 – 2008</span>
 
-## <span class="job-title">Business Development Associate</span>
+#### <span class="job-title">Business Development Associate</span>
 
 </header>
 
